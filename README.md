@@ -7,7 +7,7 @@
   <a href="">
     <img src="./public/aits.png" alt="FEU-TECH AITS" width="130">
   </a>
-  <h3 align="center">Boilerplate for Tauri, NextJS & ShadCN</h3>
+  <h3 align="center">Lollipop</h3>
 </div>
 <!-- Complete this-->
 <div align="center">
@@ -15,6 +15,8 @@
 </div>
 
 <br />
+
+![](https://visit-counter.vercel.app/counter.png?page=HailKagamine123/WD-lollipop)
 
 ---
 
